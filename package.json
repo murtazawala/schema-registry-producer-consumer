@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "avro-js": "^1.11.1",
+    "avro-schema-registry": "^2.1.5",
+    "avsc": "^5.7.7",
+    "axios": "^1.3.4",
+    "kafka-node": "^5.0.0",
+    "kafkajs": "^2.2.4",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  },
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
